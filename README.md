@@ -6,8 +6,8 @@
 A Full Stack calendar application perfect for quick and efficient event planning in the classroom. Users can create an account as either a student or an instructor. Both roles can make and manage their schedule for one month at a time, however a student user's events will be personal to their calendar alone. 
 
 <span>
-<img src="New_Girl/public/images/bottleNose Records.PNG" style="float: left" alt="Local Feed Page" width="350" height="200"/>
-<img src="New_Girl/public/images/bottleNose RecordsTwo.PNG" alt="Search Page" width="350" height="200"/>
+<img src="public/images/bottleNose Records.PNG" style="float: left" alt="Local Feed Page" width="350" height="200"/>
+<img src="public/images/bottleNose RecordsTwo.PNG" alt="Search Page" width="350" height="200"/>
 </span>
 
 ## Technologies Used
